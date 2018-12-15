@@ -1,0 +1,10 @@
+/Users/ito/Downloads/TextCipherDecipher/bin/Debug/TextCipherDecipher.exe.config
+/Users/ito/Downloads/TextCipherDecipher/bin/Debug/TextCipherDecipher.exe
+/Users/ito/Downloads/TextCipherDecipher/bin/Debug/TextCipherDecipher.pdb
+/Users/ito/Downloads/TextCipherDecipher/obj/Debug/CifradoCesar.csprojAssemblyReference.cache
+/Users/ito/Downloads/TextCipherDecipher/obj/Debug/TextCipherDecipher.Form1.resources
+/Users/ito/Downloads/TextCipherDecipher/obj/Debug/TextCipherDecipher.Properties.Resources.resources
+/Users/ito/Downloads/TextCipherDecipher/obj/Debug/CifradoCesar.csproj.GenerateResource.cache
+/Users/ito/Downloads/TextCipherDecipher/obj/Debug/CifradoCesar.csproj.CoreCompileInputs.cache
+/Users/ito/Downloads/TextCipherDecipher/obj/Debug/TextCipherDecipher.exe
+/Users/ito/Downloads/TextCipherDecipher/obj/Debug/TextCipherDecipher.pdb

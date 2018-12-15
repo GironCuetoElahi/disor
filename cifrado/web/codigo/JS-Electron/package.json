@@ -1,0 +1,14 @@
+{
+  "name": "cifrado_cesar_framework",
+  "version": "1.0.0",
+  "description": "cifrado cesar con framework",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "GironCuetoElahi",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.12"
+  }
+}

@@ -1,13 +1,13 @@
 # Cifrado César implementado en JS
 
-## Giron Cueto Elahi
+## *Giron Cueto Elahi*
 
 ### Para iniciarlo:
 
 ```bash
 
 # entren en la carpeta
-cd cifrado-cesar
+cd nombre-donde-se-ubica
 
 # inicien un servidor web
 php -S localhost:8888
